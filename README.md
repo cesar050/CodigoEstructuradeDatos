@@ -3,6 +3,8 @@
 - César Ramos
 - César López
 - Santiago Jimenez 
+# Diagrama de clases 
+![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/fe768750-875f-4742-baa4-462b42768bfe)
 
 # Interfaz Estructura 
 Esta interfaz se usará para definir un contrato para las estructuras de datos que permitan la adición de valores, en este caso será utilizada para agregar valores a los arboles binarios, listas y grafos.
