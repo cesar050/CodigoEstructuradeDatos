@@ -9,6 +9,12 @@
 ## Ejecucion del codigo
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/4b38a7bc-a25c-4745-8b7a-66a690b723c4)
 
+### Ejecucion de ejemplo de listas
+![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/a51df63f-1d57-4ccd-837d-dbd5b1d793bf)
+
+### Ejecucion de ejemplo de grafo simple no dirigido
+![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/ab6c08c4-23f9-4141-8cc9-9791d2a76409)
+
 # Interfaz Estructura 
 Esta interfaz se usará para definir un contrato para las estructuras de datos que permitan la adición de valores, en este caso será utilizada para agregar valores a los arboles binarios, listas y grafos.
 ## Métodos
