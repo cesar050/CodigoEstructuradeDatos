@@ -6,7 +6,7 @@
 # Diagrama de clases 
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/fe768750-875f-4742-baa4-462b42768bfe)
 
-## Ejecucion del codigo
+## Ejecucion del codigo de arbol
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/4b38a7bc-a25c-4745-8b7a-66a690b723c4)
 
 ### Ejecucion de ejemplo de listas
