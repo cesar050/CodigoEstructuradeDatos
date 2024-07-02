@@ -2,7 +2,8 @@
 ## Integrantes 
 - César Ramos
 - César López
-- Santiago Jimenez 
+- Santiago Jimenez
+- Wagner Balcazar
 # Diagrama de clases 
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/fe768750-875f-4742-baa4-462b42768bfe)
 
