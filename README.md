@@ -4,7 +4,8 @@
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/6efa3db1-c163-4be8-a370-e5178bf4bebf)
 ### Vista de un arbol añadiendo sus nodos
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/79b83231-d41a-456e-a490-2541ab7358c4)
-
+### Vista del recorrido PreOrden
+![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/3574b7e2-93ef-4a6a-b652-bcc4b88879d3)
 # ArbolBinario
 ## Metodos
 - getAltura: Este metodo se encarga de devolver la latura del árbol
