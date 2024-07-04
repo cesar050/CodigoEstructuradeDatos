@@ -82,3 +82,5 @@ Esta clase será la encargada de representar de manera grafica un árbol binario
 - resetButton.addActionListener: Listener para el botón "Volver Árbol Base". El cual reinicia el árbol a su estado inicial.
 - disableRecorridoButtons: Este método desactiva los botones de recorrido para evitar múltiples ejecuciones.
 - enableRecorridoButtons: Este método activa los botones de recorrido.
+UML
+![yyy](https://github.com/cesar050/CodigoEstructuradeDatos/assets/166561281/1bdb087e-a0e4-498a-926e-fa00bb37e0a7)
