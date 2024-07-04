@@ -2,6 +2,8 @@
 
 ## Vista de la interfaz 
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/6efa3db1-c163-4be8-a370-e5178bf4bebf)
+### Vista de un arbol añadiendo sus nodos
+![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/79b83231-d41a-456e-a490-2541ab7358c4)
 
 # ArbolBinario
 ## Metodos
