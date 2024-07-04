@@ -1,4 +1,8 @@
 # Documentacion EstructuradeDatos
+
+## Vista de la interfaz 
+![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/6efa3db1-c163-4be8-a370-e5178bf4bebf)
+
 # ArbolBinario
 ## Metodos
 - getAltura: Este metodo se encarga de devolver la latura del árbol
