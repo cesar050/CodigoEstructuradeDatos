@@ -8,6 +8,14 @@
 # Interfaz Grafica 
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/57dcc008-0350-48de-b115-9b42bfa2c8c3)
 
+## Ejemplo de árbol
+![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/7e7f117a-4f41-4c3a-8adf-5ba5d29f2afd)
+
+## Elinacion de un nodo 
+En este caso eliminamos el nodo 19 por lo que pasara a su posicion el nodo 20
+![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/835d1333-f397-4b17-946d-545c2545ca19)
+
+
 # Diagrama de clases 
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/fe768750-875f-4742-baa4-462b42768bfe)
 
