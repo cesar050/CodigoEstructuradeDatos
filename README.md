@@ -15,6 +15,8 @@
 En este caso eliminamos el nodo 19 por lo que pasara a su posicion el nodo 20
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/835d1333-f397-4b17-946d-545c2545ca19)
 
+## Recorrido de InOrden 
+![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/0caf6c65-b891-4f14-9def-229cd154667c)
 
 # Diagrama de clases 
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/fe768750-875f-4742-baa4-462b42768bfe)
