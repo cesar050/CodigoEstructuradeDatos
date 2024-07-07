@@ -4,6 +4,10 @@
 - César López
 - Santiago Jimenez
 - Wagner Balcazar
+
+# Interfaz Grafica 
+![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/57dcc008-0350-48de-b115-9b42bfa2c8c3)
+
 # Diagrama de clases 
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/fe768750-875f-4742-baa4-462b42768bfe)
 
