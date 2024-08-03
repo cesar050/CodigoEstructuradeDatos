@@ -19,7 +19,7 @@ En este caso eliminamos el nodo 19 por lo que pasara a su posicion el nodo 20
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/0caf6c65-b891-4f14-9def-229cd154667c)
 
 # Diagrama de clases 
-![image](https://github.com/user-attachments/assets/502212ad-a3aa-45ad-a002-707b8f2ec86a)
+![image](https://github.com/user-attachments/assets/e969817c-01e9-4717-a9a5-5cab7b4b8c31)
 
 ## Ejecucion del codigo de arbol
 ![image](https://github.com/cesar050/CodigoEstructuradeDatos/assets/145623077/4b38a7bc-a25c-4745-8b7a-66a690b723c4)
