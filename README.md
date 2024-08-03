@@ -92,5 +92,5 @@ Esta clase será la encargada de representar de manera grafica un árbol binario
 - 
 DIAGRAMA UML
 
-![image](https://github.com/user-attachments/assets/0591c965-b15f-4953-88f6-6298d5b2518d)
+![image](https://github.com/user-attachments/assets/0ac64905-058d-494c-bd5c-a16109da1011)
 
