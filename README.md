@@ -91,4 +91,5 @@ Esta clase será la encargada de representar de manera grafica un árbol binario
 - enableRecorridoButtons: Este método activa los botones de recorrido.
 - 
 DIAGRAMA UML
-![yyy](https://github.com/cesar050/CodigoEstructuradeDatos/assets/166561281/1bdb087e-a0e4-498a-926e-fa00bb37e0a7)
+![image](https://github.com/user-attachments/assets/0591c965-b15f-4953-88f6-6298d5b2518d)
+
